@@ -25,7 +25,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahana-gupta-7b2aa3261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/AhanaGupta004" target="_blank">
@@ -34,7 +34,7 @@
   <a href="mailto:ahanagupta.1213@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/Ahana_Gupta004/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
@@ -88,8 +88,8 @@ A web-based event management platform designed to streamline event creation, man
 
 - 🥉 Secured 3rd Rank among MCA students in the Second Semester
 - ⭐ Achieved 5-Star SQL rating on HackerRank
-- 💡 Solved 250+ DSA problems across coding platforms
-- 🏅 Secured 2nd Rank among 150+ participants in a college technical competition
+- 💡 Solved 200+ DSA problems across coding platforms
+- 🏅 Secured 1nd Rank among 150+ participants in a college technical competition
 
 ---
 
